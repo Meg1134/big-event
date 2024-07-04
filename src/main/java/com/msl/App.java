@@ -2,7 +2,7 @@ package com.msl;
 
 /**
  * Hello world!
- *
+ * @author msl
  */
 public class App 
 {
