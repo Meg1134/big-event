@@ -8,9 +8,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @author msl
  */
 @SpringBootApplication
-public class bigEventApplication
+public class BigEventApplication
 {
     public static void main( String[] args ){
-        SpringApplication.run(bigEventApplication.class, args);
+        SpringApplication.run(BigEventApplication.class, args);
     }
 }
